@@ -1,3 +1,3 @@
 <?
 phpinfo();
-echo "----- test101";
+echo "----- test102";
