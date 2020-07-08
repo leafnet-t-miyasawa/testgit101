@@ -1,2 +1,2 @@
 <?
-phpinfo(); // てすとてすと
+phpinfo(); // てすとてすとtestsetset
