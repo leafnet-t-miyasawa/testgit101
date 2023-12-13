@@ -7,7 +7,5 @@ echo "test304";
 // てすとこめんと３
 // AFSDFASFDASDFASDF
 // test132131232
-
-echo "test201";
 echo "test202";
 ?>
