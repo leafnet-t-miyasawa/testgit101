@@ -7,4 +7,6 @@ echo "test304";
 // てすとこめんと３
 // AFSDFASFDASDFASDF
 // test132131232
+
+echo "20231213_001";
 ?>
